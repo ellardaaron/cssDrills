@@ -1,0 +1,122 @@
+body{
+    font-family: 'Press Start 2P', cursive;
+  }
+
+body{
+    background-color: lightgrey;
+}
+
+h2, p {
+    text-align: center;
+}
+
+h2 {
+    margin: 0 auto;
+    width: 80%;
+}
+
+a {
+    text-align: center;
+}
+
+#readme-wrapper {
+    text-align: center;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: red; font-size: xx-large;
+}
+
+span.specialWord {
+    color: goldenrod; font-size: x-large
+}
+
+.boxes {
+   border: 5px solid black;
+   margin: 5px;
+   padding: 5px 5px 5px 5px;
+   border-radius: 25px 25px 25px 25px;
+   width: 30em;
+   display: block;
+}
+
+
+#box1{
+    background-color: purple;
+}
+
+#box2{
+    background-color: rgb(71, 0, 71);
+    
+}
+
+#box3{
+    background-color: blueviolet;
+}
+
+#box4{
+    background-color: indigo;
+}
+
+.boxImage {
+    margin: 0;
+    float: left;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: gold;
+    position: relative;
+}
+
+.original {
+    color: midnightblue;
+}
+
+.additional{
+    color:skyblue;
+}
+
+#show1{
+color:red;
+}
+
+#show2{
+color: orange;
+}
+
+#show3{
+color: yellow;
+}
+
+#show4{
+color: green;
+}
+
+#show5{
+color: blue;
+}
+
+#show6{
+color: indigo;
+}
+
+ul {
+    color: greenyellow;
+}
+
+.star{
+    color: fuchsia;
+}
+
+#wars{
+    color: mediumspringgreen;
+}
+
+.border{
+    border: 2px solid black;
+}
